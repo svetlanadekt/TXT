@@ -1,0 +1,1 @@
+skills:HTTP Методы, JSON, XML, Тестирование API через Postman, Снифинг http web трафика через Charles и Fiddler, GitBash, VPN, Мобильное тестирование, Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join), База данных Postgres
